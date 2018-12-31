@@ -1,0 +1,23 @@
+{
+  "name": "nodepractics",
+  "version": "1.0.0",
+  "description": "Node js Restfull API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilas1992/nodejsTutorial.git"
+  },
+  "keywords": [
+    "Node",
+    "API"
+  ],
+  "author": "vilas lawand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vilas1992/nodejsTutorial/issues"
+  },
+  "homepage": "https://github.com/vilas1992/nodejsTutorial#readme"
+}
