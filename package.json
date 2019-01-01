@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/vilas1992/nodejsTutorial/issues"
   },
-  "homepage": "https://github.com/vilas1992/nodejsTutorial#readme"
+  "homepage": "https://github.com/vilas1992/nodejsTutorial#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
